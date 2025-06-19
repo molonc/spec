@@ -1,3 +1,26 @@
+PREAMBLE
+============
+The contents of this repository was copied on 2025-06-19 to serve as an online copy of a critical piece of now unsupported code.
+
+The original directory was as follows, with the majority of applications being softlinks to the actual `spec` binary.
+
+```
+   4096 Jun 19 11:08 ./
+   4096 Jun 19 11:07 ../
+      4 Jun 19 11:07 bam2spec -> spec*
+      4 Jun 19 11:07 fasta2ref -> spec*
+   4096 Jun 19 11:10 .git/
+  18568 Jun 19 11:07 README.md
+6068560 Jun 19 11:07 spec*
+      4 Jun 19 11:07 spec2bam -> spec*
+     20 Jun 19 11:07 VERSION
+```
+
+Originally compiled and run for CentOS 7, which reached it's end of life June 30, 2024, so no guarnatees on compatibility on other OS and versions.
+
+README.txt
+============
+
 SpEC User Instructions
 
 How to Install and Run Spiral Encrypted Compression (SpEC)
