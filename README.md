@@ -1,6 +1,8 @@
 PREAMBLE
 ============
-The contents of this repository was copied on 2025-06-19 to serve as an online copy of a critical piece of now unsupported code.
+The Spiral Encrypted Compression (SpEC) format was a proprietary format developed by Spiral Genetics, Inc circa 2015.  The company is now defunct and there is now no official way to obtain the binary required to decompress these files.
+
+The contents of this repository was copied on 2025-06-19 to serve as an online copy to serve future generations.
 
 The original directory was as follows, with the majority of applications being softlinks to the actual `spec` binary.
 
