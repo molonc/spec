@@ -20,6 +20,8 @@ The original directory was as follows, with the majority of applications being s
 
 Originally compiled and run for CentOS 7, which reached it's end of life June 30, 2024, so no guarnatees on compatibility on other OS and versions.
 
+A whitepaper describing the characteristics is located here: https://staden.sourceforge.net/cram_benchmarks.html
+
 README.txt
 ============
 
